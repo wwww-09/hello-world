@@ -1,4 +1,5 @@
 # hello-world
+
 xiaowu学GItHub
 再添加一行
 1.课程综述
@@ -18,3 +19,6 @@ xiaowu学GItHub
 16. Pull Request
 17.Github做开源贡献的基本流程
 18.在IDE里面使用Git
+
+整体流程就是这样
+
